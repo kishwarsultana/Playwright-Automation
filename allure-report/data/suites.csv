@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","19613","@sanityregister test case","chrome","2026-09-01","passed","2026-09-01","combine test","TCcombine.spec.js","",""
+"","13394","@sanity@regressionlogin test case","chrome","2026-09-01","passed","2026-09-01","combine test","TCcombine.spec.js","",""
+"","13835","@sanityregister test case","safari","2026-09-01","passed","2026-09-01","combine test","TCcombine.spec.js","",""
+"","9877","@sanityregister test case","chromium","2026-09-01","passed","2026-09-01","combine test","TCcombine.spec.js","",""
